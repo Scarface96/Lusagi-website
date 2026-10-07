@@ -7,6 +7,13 @@ A responsive one-page website for **Lussagi**, a fictional digital content marke
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white)
 
+<p align="center">
+  <img src="docs/images/desktop.jpg" alt="Lussagi homepage on desktop" width="72%">
+  &nbsp;
+  <img src="docs/images/mobile.jpg" alt="Lussagi homepage on mobile" width="22%">
+</p>
+<p align="center"><sub>Desktop and mobile views</sub></p>
+
 ## 📋 Page Sections
 
 | Section | Content |
