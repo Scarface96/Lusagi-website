@@ -58,3 +58,7 @@ Structuring a multi-section landing page, responsive design with media queries, 
 ---
 
 👤 **Tony Mulunda** — [GitHub @Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A responsive digital-agency landing page designed around services, portfolio work, pricing, testimonials and lead generation. It demonstrates front-end layout, responsive design, branding and vanilla JavaScript interactions suitable for client-facing business websites.
